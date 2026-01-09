@@ -31,11 +31,12 @@ The dashboard provides insights into how tourism was affected before COVID-19, d
 ## Methodology
 
 ## Data Collection
-Tourism-related data was collected covering the period from **2018 to 2025**, including:
+Tourism-related data (Toursim-Arrivalls and Toursim-Revenue) was collected covering the period from **2018 to 2025**, including:
 
 ### Data Cleaning & Preparation
 Data preparation was performed using SQL Query and Power Query, including:
 - Handling missing values and missng rows
+- Created a singel dataset for Toursim arrival by combining 8 datasets using UNION ALL
 - Standardizing country names to ensure uniqueness and consistency
 - Removing invalid, ambiguous, or incomplete country records
 - Creating a unified `YearMonth` field for time-based analysis
