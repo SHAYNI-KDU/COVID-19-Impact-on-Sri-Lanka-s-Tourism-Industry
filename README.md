@@ -16,7 +16,7 @@ The dashboard provides insights into how tourism was affected before COVID-19, d
 
 
 ## Dataset
-- Toursim Arrivals Dataset : 8 separate Datasets from SLTDA from 2018- 2025 ( https://www.sltda.gov.lk/en/statistics)
+- Toursim Arrivals Dataset :  https://www.sltda.gov.lk/en/statistics (8 separate Datasets from SLTDA from 2018- 2025)
 
 - Toursim Revenue : https://tradingeconomics.com/sri-lanka/tourism-revenues (2018-2025)
 
