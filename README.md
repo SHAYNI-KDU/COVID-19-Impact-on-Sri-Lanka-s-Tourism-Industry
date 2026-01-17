@@ -86,5 +86,5 @@ A proper data model was created using a star schema approach:
 - Integration with external economic indicators
 
 ## Author ##
-Shayni Ravishika
-Data Analytics & Business Intelligence Enthusiast
+- Shayni Ravishika
+- Data Analytics & Business Intelligence Enthusiast
