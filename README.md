@@ -10,8 +10,8 @@ This project analyzes the impact of the COVID-19 pandemic on Sri Lanka’s touri
 - Evaluate YOY growth in arrivals and revenue
 - Visualize top tourist source countries globally
 - Compare tourism performance before, during, and after COVID-19
-   Dataset
-  
+
+  ## Dataset ##
 - Toursim Arrivals Dataset : https://www.sltda.gov.lk/en/statistics (8 separate Datasets from SLTDA from 2018- 2025)
 - Toursim Revenue : https://tradingeconomics.com/sri-lanka/tourism-revenues (2018-2025)
   
@@ -36,7 +36,7 @@ Tourism-related data (Toursim-Arrivalls and Toursim-Revenue) was collected cover
   - Creating a unified YearMonth field for time-based analysis
   - Ensuring correct data types for numeric and date-related columns
 
-## Data Modeling
+## Data Modeling ##
 A proper data model was created using a star schema approach:
 - Fact Table:Tourist arrivals and revenue data
 - Date Table: Custom date table created using Year and Month fields
@@ -48,7 +48,7 @@ A proper data model was created using a star schema approach:
 - Avoided circular dependencies by separating calculated columns and measures
 
  ## Dashboard Features ##
- KPI Indicators
+ ## KPI Indicators ##
 - Total Tourist Arrivals
 - Total Tourism Revenue
 - Best Recovery Month (Post-COVID)
