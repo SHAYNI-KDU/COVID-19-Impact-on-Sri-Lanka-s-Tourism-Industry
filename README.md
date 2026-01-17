@@ -1,4 +1,4 @@
-## COVID-19 Impact on Sri Lanka’s Tourism Industry ##
+ ## COVID-19 Impact on Sri Lanka’s Tourism Industry ##
 
 ## Project Overview ##
 This project analyzes the impact of the COVID-19 pandemic on Sri Lanka’s tourism industry using an interactive Power BI dashboard. The analysis focuses on tourist arrivals, tourism revenue, year-over-year (YOY) growth trends, recovery patterns, and changes in global tourist source countries across different COVID-19 phases.The dashboard provides insights into how tourism was affected before COVID-19, during the pandemic, and in the post-COVID recovery period.
@@ -67,7 +67,7 @@ A proper data model was created using a star schema approach:
 - Month
 - COVID Period (Before, During, Post)
   
- ## COVID Period Classification##
+ ## COVID Period Classification ##
 - Before-COVID: Up to December 2019
 - During COVID: January 2020 – December 2021
 - Post-COVID: January 2022 onwards This classification enables clear comparative analysis across pandemic phases.
