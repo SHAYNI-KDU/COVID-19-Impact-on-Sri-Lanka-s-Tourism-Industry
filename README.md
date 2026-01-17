@@ -11,7 +11,7 @@ This project analyzes the impact of the COVID-19 pandemic on Sri Lanka’s touri
 - Visualize top tourist source countries globally
 - Compare tourism performance before, during, and after COVID-19
 
-  ## Dataset ##
+## Dataset ##
 - Toursim Arrivals Dataset : https://www.sltda.gov.lk/en/statistics (8 separate Datasets from SLTDA from 2018- 2025)
 - Toursim Revenue : https://tradingeconomics.com/sri-lanka/tourism-revenues (2018-2025)
   
@@ -72,7 +72,7 @@ A proper data model was created using a star schema approach:
 - During COVID: January 2020 – December 2021
 - Post-COVID: January 2022 onwards This classification enables clear comparative analysis across pandemic phases.
 
- ## Key Insights
+ ## Key Insights ##
 - Sharp decline in tourist arrivals during early 2020
 - April 2020 identified as the first worst COVID month
 - Strong recovery observed in early 2025
